@@ -24,4 +24,4 @@
 - **开发环境:** Google Colab / Jupyter Notebook
 - **版本控制:** Git & GitHub
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/joychocker/Credit-Card-Analysis/blob/main/%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%20(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joychocker/Credit-Card-Analysis/blob/main/%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%20(1).ipynb)
