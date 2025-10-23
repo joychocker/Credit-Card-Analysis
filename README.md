@@ -23,5 +23,3 @@
 - **数据可视化:** Plotly, Matplotlib
 - **开发环境:** Google Colab / Jupyter Notebook
 - **版本控制:** Git & GitHub
-
-## 📁 项目结构
